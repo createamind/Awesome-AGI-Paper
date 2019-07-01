@@ -11,6 +11,3 @@
 # Key point
 - [**LEARNING AWARENESS MODELS**]
 Learning a predictor and use predict error as internal reward, and they jointly train an inverse dynamics model for encoder, who project observation to a space that is invariant to parts of the environment that do not affect the agent or task. 
-
-
-<img src="https://github.com/createamind/DRL/blob/master/video_pic/sac1.png" width="550" style="display:inline"/>
