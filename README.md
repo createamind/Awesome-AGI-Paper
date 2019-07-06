@@ -12,15 +12,20 @@
    - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill
 Learning
 ### model free
+   - [**sac**]()
+   - [**ppo**]()
+   - [****]()
 ## Meta learning
+   - [****]()
 ## Memory
 ### hube
    - [**A BIOLOGICALLY INSPIRED VISUAL WORKING MEMORY FOR DEEP NETWORKS**](https://github.com/JingbinLiu/STAWM)
 ### NTM
    - [**Learning to Remember More with Less Memorization**](https://arxiv.org/abs/1901.01347/)
 ### episode mem 
+   - [**Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference**](https://github.com/mattriemer/mer)
 ### association mem
-   
+   - [****]()
 ## one shot
 
 # Key point
