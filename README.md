@@ -18,6 +18,9 @@ Learning
    - [**A BIOLOGICALLY INSPIRED VISUAL WORKING MEMORY FOR DEEP NETWORKS**](https://github.com/JingbinLiu/STAWM)
 ### NTM
    - [**Learning to Remember More with Less Memorization**](https://arxiv.org/abs/1901.01347/)
+### episode mem 
+### association mem
+   
 ## one shot
 
 # Key point
