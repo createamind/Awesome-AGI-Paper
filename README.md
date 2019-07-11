@@ -12,9 +12,11 @@
    - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill
 Learning
 ### model free
-   - [**sac**]()
-   - [**ppo**]()
-   - [****]()
+   - [**TRPO**](https://arxiv.org/abs/1506.02438)
+   - [**PPO**](https://arxiv.org/abs/1707.06347)
+   - [**DDPG**](https://arxiv.org/abs/1509.02971)
+   - [**TD3**](https://arxiv.org/abs/1802.09477)
+   - [**SAC**](https://arxiv.org/abs/1801.01290)
 ## Meta learning
    - [****]()
 ## Memory
