@@ -1,14 +1,24 @@
+
+# To be integrated
+## sac rnn planet
+## infobot  https://github.com/snu-mllab/EMI
+##
+##
+##
+
+
+
 # Awesome-AGI-Paper
 ## Representation learning
 ### autoencoder
-   - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch)
+   - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch)  压缩效率高
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
 ###
 ## DRL
 ### model base
    - [**LEARNING AWARENESS MODELS**](https://arxiv.org/pdf/1804.06318.pdf) *ICLR 2018* 
    - [**Curiosity-driven Exploration by Self-supervised Prediction**](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) *ICML 2017* [`curiosity`]
-   - [**Learning Latent Dynamics for Planning from Pixels**](https://arxiv.org/pdf/1811.04551.pdf) *ICML 2018* [`MPC`][`VAE`]
+   - [**Learning Latent Dynamics for Planning from Pixels**](https://arxiv.org/pdf/1811.04551.pdf) *ICML 2018* [`MPC`][`VAE`]  planet
    - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill
 Learning
 ### model free
