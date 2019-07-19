@@ -41,6 +41,6 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 - [**EMI**]
 * Learn the representation of states $\phi(s)$ and the action $\psi(a)$ such that the representation of the corresponding next state $\phi(s')$ following linear dynamics i.e. $\phi(s') = \phi(s) + \psi(a)$
 * Intrinsic reward augmentation
-\[\underset{\alpha,\beta,\gamma}{\text{minimize}} \|\Phi'_{\alpha}-(\Phi_{\alpha}+\Psi_{\beta}+S_{\gamma})\|^2_F+\lambda_{error}\|S_{\gamma}\|^2_F+{\gamma}_{info}\cdot{L_{info}}\]
-\[r_e(s_t, a_t, s'_t) = \|\phi(s_t) + \psi(a) + S(s_t, a_t - \phi(s'_t))\|^2\]
+$$\underset{\alpha,\beta,\gamma}{\text{minimize}} \|\Phi'_{\alpha}-(\Phi_{\alpha}+\Psi_{\beta}+S_{\gamma})\|^2_F+\lambda_{error}\|S_{\gamma}\|^2_F+{\gamma}_{info}\cdot{L_{info}}\]$$
+$$r_e(s_t, a_t, s'_t) = \|\phi(s_t) + \psi(a) + S(s_t, a_t - \phi(s'_t))\|^2$$
 * https://github.com/snu-mllab/EMI
