@@ -2,11 +2,6 @@
 # To be integrated
 ## sac rnn planet
 ## infobot  https://github.com/snu-mllab/EMI
-##
-##
-##
-
-
 
 # Awesome-AGI-Paper
 ## Representation learning
@@ -28,15 +23,15 @@ Learning
    - [**TD3**](https://arxiv.org/abs/1802.09477)
    - [**SAC**](https://arxiv.org/abs/1801.01290)
 ## Meta learning
-   - [****]()
+   - [**MBMPO**](https://arxiv.org/abs/1809.05214)
 ## Memory
-### hube
+### HUBE
    - [**A BIOLOGICALLY INSPIRED VISUAL WORKING MEMORY FOR DEEP NETWORKS**](https://github.com/JingbinLiu/STAWM)
 ### NTM
    - [**Learning to Remember More with Less Memorization**](https://arxiv.org/abs/1901.01347/)
 ### episode mem 
    - [**Learning to Learn without Forgetting by Maximizing Transfer and Minimizing Interference**](https://github.com/mattriemer/mer)
-### association mem
+### association memory
    - [****]()
 ## one shot
 
