@@ -1,21 +1,18 @@
 
-# To be integrated
-## sac rnn planet
-## infobot  https://github.com/snu-mllab/EMI
-
 # Awesome-AGI-Paper
 ## Representation learning
 ### autoencoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch)  压缩效率高
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
-###
+### GAN
 ## DRL
 ### model base
    - [**LEARNING AWARENESS MODELS**](https://arxiv.org/pdf/1804.06318.pdf) *ICLR 2018* 
-   - [**Curiosity-driven Exploration by Self-supervised Prediction**](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) *ICML 2017* [`curiosity`]
+   - [**Curiosity-driven Exploration by Self-supervised Prediction**](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) *ICML 2017* [`curiosity`][`ICM`]
    - [**Learning Latent Dynamics for Planning from Pixels**](https://arxiv.org/pdf/1811.04551.pdf) *ICML 2018* [`MPC`][`VAE`]  planet
-   - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill
-Learning
+   - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
+   - [**INFOBOT**](https://openreview.net/pdf?id=rJg8yhAqKm) 
+   - [**EMI**](https://arxiv.org/abs/1810.01176) 
 ### model free
    - [**TRPO**](https://arxiv.org/abs/1506.02438)
    - [**PPO**](https://arxiv.org/abs/1707.06347)
@@ -36,7 +33,14 @@ Learning
 ## one shot
 
 # Key point
-- [**LEARNING AWARENESS MODELS**]
+- [**Curiosity-driven Exploration by Self-supervised Prediction**]
 Learning a predictor and use predict error as internal reward, and they jointly train an inverse dynamics model for encoder, who project observation to a space that is invariant to parts of the environment that do not affect the agent or task. 
 
 <img src="https://github.com/createamind/Awesome-AGI-Paper/blob/master/img/ICM_min-d1e454752470ec66bea6561d61f2d369d9d8f7fad92c0a3dcdc69614e5dd1f96.png" width="350" style="display:inline"/>
+
+- [**EMI**]
+* Learn the representation of states $\phi(s)$ and the action $\psi(a)$ such that the representation of the corresponding next state $\phi(s')$ following linear dynamics i.e. $\phi(s') = \phi(s) + \psi(a)$
+* Intrinsic reward augmentation
+\[\underset{\alpha,\beta,\gamma}{\text{minimize}} \|\Phi'_{\alpha}-(\Phi_{\alpha}+\Psi_{\beta}+S_{\gamma})\|^2_F+\lambda_{error}\|S_{\gamma}\|^2_F+{\gamma}_{info}\cdot{L_{info}}\]
+\[r_e(s_t, a_t, s'_t) = \|\phi(s_t) + \psi(a) + S(s_t, a_t - \phi(s'_t))\|^2\]
+* https://github.com/snu-mllab/EMI
