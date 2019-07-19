@@ -2,7 +2,7 @@
 # Awesome-AGI-Paper
 ## Representation learning
 ### Autoencoder
-   - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) ['SOTA']
+   - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
@@ -34,12 +34,12 @@
 ## Few shot learning
 
 # Key point
-- [**Curiosity-driven Exploration by Self-supervised Prediction**]
+## [**Curiosity-driven Exploration by Self-supervised Prediction**]
 Learning a predictor and use predict error as internal reward, and they jointly train an inverse dynamics model for encoder, who project observation to a space that is invariant to parts of the environment that do not affect the agent or task. 
 
 <img src="https://github.com/createamind/Awesome-AGI-Paper/blob/master/img/ICM_min-d1e454752470ec66bea6561d61f2d369d9d8f7fad92c0a3dcdc69614e5dd1f96.png" width="350" style="display:inline"/>
 
-- [**EMI**]
+## [**EMI**]
 * Learn the representation of states and the action such that the representation of the corresponding next state following linear dynamics
 * Intrinsic reward augmentation
 * https://github.com/snu-mllab/EMI
