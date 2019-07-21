@@ -45,3 +45,25 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 * Learn the representation of states and the action such that the representation of the corresponding next state following linear dynamics
 * Intrinsic reward augmentation
 * https://github.com/snu-mllab/EMI
+
+# mutual infomation
+
+##
+###
+- [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
+
+- Contrastive Bidirectional Transformer for Temporal Representation Learning
+
+- Contrastive Multiview Coding 
+
+- infobot DIM cpc；EMI；MINE
+
+- soft q -mutual info；；
+
+- https://github.com/tgangwani/BMIL    Learning Belief Representations for Imitation Learning in POMDPs
+
+- INFORMATION ASYMMETRY IN KL-REGULARIZED RL      model free MI; model base MI  ???
+
+- Exploiting Hierarchy for Learning and Transfer in KL-regularized RL
+
+- Learning to Share and Hide Intentions using Information Regularization
