@@ -2,6 +2,7 @@
 # Awesome-AGI-Paper
 **Our dream is creating real AI who is suitable for all domains, here are some papers we high recommanded**
 ## Representation learning
+###
 ### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
@@ -64,5 +65,9 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 * Learn the representation of states and the action such that the representation of the corresponding next state following linear dynamics
 * Intrinsic reward augmentation
 * https://github.com/snu-mllab/EMI
+
+### THERML
+- [THE THERMODYNAMICS OF MACHINE LEARNING](https://arxiv.org/abs/1807.04162)
+ABSTRACT In this work we offer an information-theoretic framework for representation learn- ing that connects with a wide class of existing objectives in machine learning. We develop a formal correspondence between this work and thermodynamics and dis- cuss its implications.
 
 
