@@ -46,10 +46,8 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 * Intrinsic reward augmentation
 * https://github.com/snu-mllab/EMI
 
-# mutual infomation
+## mutual infomation
 
-##
-###
 - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
 
 - Contrastive Bidirectional Transformer for Temporal Representation Learning
@@ -58,7 +56,7 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 
 - infobot DIM cpc；EMI；MINE
 
-- soft q -mutual info；；
+- soft q -mutual info；
 
 - https://github.com/tgangwani/BMIL    Learning Belief Representations for Imitation Learning in POMDPs
 
