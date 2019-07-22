@@ -1,6 +1,6 @@
 
 # Awesome-AGI-Paper
-**Our dream is to create real AI who is suitable for all domains, here are some papers we high recommanded**
+**Our dream is creating real AI who is suitable for all domains, here are some papers we high recommanded**
 ## Representation learning
 ### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
