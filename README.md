@@ -2,7 +2,7 @@
 # Awesome-AGI-Paper
 **Our dream is to create real AI who is suitable for all domains, here are some papers we high recommanded**
 ## Representation learning
-### Autoencoder
+### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
 ### GAN
