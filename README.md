@@ -55,6 +55,9 @@
 
 - Learning to Share and Hide Intentions using Information Regularization
 
+## General
+- [**THE THERMODYNAMICS OF MACHINE LEARNING**](https://arxiv.org/abs/1807.04162)
+
 # Key point
 ### Curiosity-driven Exploration by Self-supervised Prediction
 Learning a predictor and use predict error as internal reward, and they jointly train an inverse dynamics model for encoder, who project observation to a space that is invariant to parts of the environment that do not affect the agent or task. 
@@ -66,8 +69,7 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 * Intrinsic reward augmentation
 * https://github.com/snu-mllab/EMI
 
-### THERML
-- [THE THERMODYNAMICS OF MACHINE LEARNING](https://arxiv.org/abs/1807.04162)
-ABSTRACT In this work we offer an information-theoretic framework for representation learn- ing that connects with a wide class of existing objectives in machine learning. We develop a formal correspondence between this work and thermodynamics and dis- cuss its implications.
+### THE THERMODYNAMICS OF MACHINE LEARNING
+In this work we offer an information-theoretic framework for representation learn- ing that connects with a wide class of existing objectives in machine learning. We develop a formal correspondence between this work and thermodynamics and dis- cuss its implications.
 
 
