@@ -9,6 +9,8 @@
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
 ## DRL
+### Task-Agnostic Reinforcement Learning  24 papers
+ - [ Workshop at ICLR, 06 May 2019, New Orleans Building agents that explore and learn in the absence of rewards](https://tarl2019.github.io/)
 ### Model base
    - [**LEARNING AWARENESS MODELS**](https://arxiv.org/pdf/1804.06318.pdf) *ICLR 2018* 
    - [**Curiosity-driven Exploration by Self-supervised Prediction**](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) *ICML 2017* [`curiosity`][`ICM`]
