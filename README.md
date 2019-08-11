@@ -18,6 +18,7 @@
    - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
    - [**INFOBOT**](https://openreview.net/pdf?id=rJg8yhAqKm) 
    - [**EMI**](https://arxiv.org/abs/1810.01176) 
+   - [**Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning**](https://arxiv.org/abs/1907.10580)
 ### Model free
    - [**TRPO**](https://arxiv.org/abs/1506.02438)
    - [**PPO**](https://arxiv.org/abs/1707.06347)
@@ -39,6 +40,7 @@
    - [**Meta-Transfer Learning for Few-Shot Learning**](https://arxiv.org/abs/1812.02391)
 
 ## Mutual infomation
+- [**Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning**](https://arxiv.org/abs/1907.10580)
 - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
 
 - Contrastive Bidirectional Transformer for Temporal Representation Learning
