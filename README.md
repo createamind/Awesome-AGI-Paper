@@ -2,7 +2,7 @@
 # Awesome-AGI-Paper
 **Our dream is creating real AI who is suitable for all domains, here are some papers we high recommanded**
 ## Representation learning
-###
+### Successor Representations
    - [**Predicting the Future with Multi-scale Successor Representations**](https://www.biorxiv.org/content/10.1101/449470v1.full#ref-39)
 ### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
