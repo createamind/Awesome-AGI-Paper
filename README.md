@@ -71,7 +71,7 @@
 ### Curiosity-driven Exploration by Self-supervised Prediction
 Learning a predictor and use predict error as internal reward, and they jointly train an inverse dynamics model for encoder, who project observation to a space that is invariant to parts of the environment that do not affect the agent or task. 
 
-<img src="https://github.com/createamind/Awesome-AGI-Paper/blob/master/img/ICM_min-d1e454752470ec66bea6561d61f2d369d9d8f7fad92c0a3dcdc69614e5dd1f96.png" width="350" style="display:inline"/>
+<img src="https://github.com/createamind/Awesome-AGI-Paper/blob/master/img/ICM_min-d1e454752470ec66bea6561d61f2d369d9d8f7fad92c0a3dcdc69614e5dd1f96.png" width="700" style="display:inline"/>
 
 ### EMI
 * Learn the representation of states and the action such that the representation of the corresponding next state following linear dynamics
@@ -91,4 +91,4 @@ way of learning the representation of hidden states. The RL component
 is a deep Q-network (DQN) that learns to optimize the control for maximizing
 long-term rewards. Extensive experiments in a direct mailing campaign problem
 demonstrate the effectiveness and advantages of the proposed approach
-<img src="https://static.dingtalk.com/media/lALPDgQ9rDbF0TbNAYbNA4Q_900_390.png_620x10000q90g.jpg?auth_bizType=IM&auth_bizEntity=%7B%22cid%22%3A%22133885220%3A447781637%22%2C%22msgId%22%3A%221660320396044%22%7D&open_id=133885220" width="350" style="display:inline"/>
+<img src="https://static.dingtalk.com/media/lALPDgQ9rDbF0TbNAYbNA4Q_900_390.png_620x10000q90g.jpg?auth_bizType=IM&auth_bizEntity=%7B%22cid%22%3A%22133885220%3A447781637%22%2C%22msgId%22%3A%221660320396044%22%7D&open_id=133885220" width="700" style="display:inline"/>
