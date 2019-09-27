@@ -29,6 +29,7 @@
    - [**DDPG**](https://arxiv.org/abs/1509.02971)
    - [**TD3**](https://arxiv.org/abs/1802.09477)
    - [**SAC**](https://arxiv.org/abs/1801.01290)
+   - [**RECURRENT REINFORCEMENT LEARNING:A HYBRID APPROACH**](https://arxiv.org/pdf/1509.03044.pdf)
 ### Meta learning
    - [**MBMPO**](https://arxiv.org/abs/1809.05214)
 ## Memory
@@ -80,4 +81,14 @@ Learning a predictor and use predict error as internal reward, and they jointly 
 ### THE THERMODYNAMICS OF MACHINE LEARNING
 In this work we offer an information-theoretic framework for representation learn- ing that connects with a wide class of existing objectives in machine learning. We develop a formal correspondence between this work and thermodynamics and dis- cuss its implications.
 
-
+### RECURRENT REINFORCEMENT LEARNING:A HYBRID APPROACH
+propose a new family of hybrid models that combines the strength of
+both supervised learning (SL) and reinforcement learning (RL), trained in a joint
+fashion: The SL component can be a recurrent neural networks (RNN) or its long
+short-term memory (LSTM) version, which is equipped with the desired property
+of being able to capture long-term dependency on history, thus providing an effective
+way of learning the representation of hidden states. The RL component
+is a deep Q-network (DQN) that learns to optimize the control for maximizing
+long-term rewards. Extensive experiments in a direct mailing campaign problem
+demonstrate the effectiveness and advantages of the proposed approach
+<img src="https://static.dingtalk.com/media/lALPDgQ9rDbF0TbNAYbNA4Q_900_390.png_620x10000q90g.jpg?auth_bizType=IM&auth_bizEntity=%7B%22cid%22%3A%22133885220%3A447781637%22%2C%22msgId%22%3A%221660320396044%22%7D&open_id=133885220" width="350" style="display:inline"/>
