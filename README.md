@@ -16,8 +16,8 @@
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
 ## DRL
-### Task-Agnostic Reinforcement Learning  24 papers
- - [ Workshop at ICLR, 06 May 2019, New Orleans Building agents that explore and learn in the absence of rewards](https://tarl2019.github.io/)
+### Task-Agnostic Reinforcement Learning
+ - [ Workshop at ICLR, 06 May 2019, New Orleans Building agents that explore and learn in the absence of rewards](https://tarl2019.github.io/)[`24papers`]
 ### options skill
    - Learning Abstract Options
    - Successor Options: An Option Discovery Framework for Reinforcement Learning
