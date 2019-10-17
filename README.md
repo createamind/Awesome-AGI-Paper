@@ -52,12 +52,11 @@
 
 ## Mutual infomation
 - [**Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning**](https://arxiv.org/abs/1907.10580)
-- [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
+- [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   
 
 - [**Contrastive Bidirectional Transformer for Temporal Representation Learning**]
 
-- [**Contrastive Multiview Coding **]
-
+- [**Contrastive Multiview Coding**]
 - Infobot 
 - DIM 
 - cpc
@@ -100,3 +99,6 @@ is a deep Q-network (DQN) that learns to optimize the control for maximizing
 long-term rewards. Extensive experiments in a direct mailing campaign problem
 demonstrate the effectiveness and advantages of the proposed approach
 <img src="https://static.dingtalk.com/media/lALPDgQ9rDbF0TbNAYbNA4Q_900_390.png_620x10000q90g.jpg?auth_bizType=IM&auth_bizEntity=%7B%22cid%22%3A%22133885220%3A447781637%22%2C%22msgId%22%3A%221660320396044%22%7D&open_id=133885220" width="700" style="display:inline"/>
+
+### Dynamics-Aware Unsupervised Discovery of Skills
+Graphical models, Information Bottleneck and Unsupervised Skill Learning
