@@ -7,6 +7,12 @@
 ### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
+#### disentangled-representations
+   - [**Learning Disentangled Joint Continuous and Discrete Representations**](https://arxiv.org/pdf/1804.00104.pdf)
+   - [**Understanding disentangling in β-VAE**](https://arxiv.org/pdf/1804.03599.pdf)
+   - [**Isolating Sources of Disentanglement in VAEs**](https://arxiv.org/pdf/1802.04942.pdf)
+   - [**Ladder Variational Autoencoders**](https://arxiv.org/pdf/1602.02282.pdf)
+   
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
 ## DRL
@@ -48,17 +54,19 @@
 - [**Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning**](https://arxiv.org/abs/1907.10580)
 - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
 
-- Contrastive Bidirectional Transformer for Temporal Representation Learning
+- [**Contrastive Bidirectional Transformer for Temporal Representation Learning**]
 
-- Contrastive Multiview Coding 
+- [**Contrastive Multiview Coding **]
 
-- infobot DIM cpc；EMI；MINE
+- Infobot 
+- DIM 
+- cpc
+- EMI
+- MINE
 
-- soft q -mutual info；
+- [**Learning Belief Representations for Imitation Learning in POMDPs**](https://github.com/tgangwani/BMIL)
 
-- https://github.com/tgangwani/BMIL    Learning Belief Representations for Imitation Learning in POMDPs
-
-- INFORMATION ASYMMETRY IN KL-REGULARIZED RL      model free MI; model base MI  ???
+- INFORMATION ASYMMETRY IN KL-REGULARIZED RL    
 
 - Exploiting Hierarchy for Learning and Transfer in KL-regularized RL
 
