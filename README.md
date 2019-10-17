@@ -4,15 +4,19 @@
 ## Representation learning
 
 ### AutoEncoder
-   - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
+   - [**Auto-Encoding Variational Bayes**](https://arxiv.org/abs/1312.6114)[`ORIGINAL`]
+   - [**vq-vae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
-#### disentangled-representations
+#### Disentangled-representations
    - [**Learning Disentangled Joint Continuous and Discrete Representations**](https://arxiv.org/pdf/1804.00104.pdf)
    - [**Understanding disentangling in β-VAE**](https://arxiv.org/pdf/1804.03599.pdf)
    - [**Isolating Sources of Disentanglement in VAEs**](https://arxiv.org/pdf/1802.04942.pdf)
    - [**Ladder Variational Autoencoders**](https://arxiv.org/pdf/1602.02282.pdf)
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
+- [**INFO-GAN**](https://arxiv.org/abs/1606.03657)
+- [**WGAN**](https://arxiv.org/abs/1701.07875)
+- [**Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**](https://arxiv.org/pdf/1703.10593.pdf)
 ## DRL
 ### Task-Agnostic Reinforcement Learning
  - [ Workshop at ICLR, 06 May 2019, New Orleans Building agents that explore and learn in the absence of rewards](https://tarl2019.github.io/)[`24papers`]
