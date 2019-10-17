@@ -2,8 +2,7 @@
 # Awesome-AGI-Paper
 **Our dream is creating real AI who is suitable for all domains, here are some papers we high recommanded**
 ## Representation learning
-### Successor Representations
-   - [**Predicting the Future with Multi-scale Successor Representations**](https://www.biorxiv.org/content/10.1101/449470v1.full#ref-39)
+
 ### AutoEncoder
    - [**vqvae2**](https://github.com/rosinality/vq-vae-2-pytorch) [`SOTA`]
    - [**Adversarial Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical  Flow and Motion Segmentation**](https://github.com/anuragranj/cc)
@@ -12,13 +11,14 @@
    - [**Understanding disentangling in β-VAE**](https://arxiv.org/pdf/1804.03599.pdf)
    - [**Isolating Sources of Disentanglement in VAEs**](https://arxiv.org/pdf/1802.04942.pdf)
    - [**Ladder Variational Autoencoders**](https://arxiv.org/pdf/1602.02282.pdf)
-   
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
 ## DRL
 ### Task-Agnostic Reinforcement Learning
  - [ Workshop at ICLR, 06 May 2019, New Orleans Building agents that explore and learn in the absence of rewards](https://tarl2019.github.io/)[`24papers`]
-### options skill
+ ### Successor Representations
+   - [**Predicting the Future with Multi-scale Successor Representations**](https://www.biorxiv.org/content/10.1101/449470v1.full#ref-39)
+### OPTIONS SKILL
    - Learning Abstract Options
    - Successor Options: An Option Discovery Framework for Reinforcement Learning
 ### Model base
