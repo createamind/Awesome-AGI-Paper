@@ -29,7 +29,7 @@
    - [**LEARNING AWARENESS MODELS**](https://arxiv.org/pdf/1804.06318.pdf) *ICLR 2018* 
    - [**Curiosity-driven Exploration by Self-supervised Prediction**](https://pathak22.github.io/noreward-rl/resources/icml17.pdf) *ICML 2017* [`curiosity`][`ICM`]
    - [**Learning Latent Dynamics for Planning from Pixels**](https://arxiv.org/pdf/1811.04551.pdf) *ICML 2018* [`MPC`][`VAE`]  [`planet`]
-   - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)   Graphical models, Information Bottleneck and Unsupervised Skill Learning
+   - [**Dynamics-Aware Unsupervised Discovery of Skills**](https://arxiv.org/pdf/1907.01657.pdf)
    - [**INFOBOT**](https://openreview.net/pdf?id=rJg8yhAqKm) 
    - [**EMI**](https://arxiv.org/abs/1810.01176) 
    - [**Unsupervised Discovery of Decision States for Transfer in Reinforcement Learning**](https://arxiv.org/abs/1907.10580)
