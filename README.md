@@ -12,6 +12,11 @@
    - [**Understanding disentangling in β-VAE**](https://arxiv.org/pdf/1804.03599.pdf)
    - [**Isolating Sources of Disentanglement in VAEs**](https://arxiv.org/pdf/1802.04942.pdf)
    - [**Ladder Variational Autoencoders**](https://arxiv.org/pdf/1602.02282.pdf)
+   - [**Disentangling by Factorising**]
+#### General theory of VAE
+   - [**Recent Advances in Autoencoder-Based Representation Learning**](https://arxiv.org/pdf/1812.05069.pdf)
+   - [**Are Disentangled Representations Helpful for Abstract Visual Reasoning?**](https://arxiv.org/pdf/1812.05069.pdf)
+
 ### GAN
 - [**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**](https://arxiv.org/abs/1606.00709)
 - [**INFO-GAN**](https://arxiv.org/abs/1606.03657)
